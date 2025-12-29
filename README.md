@@ -162,5 +162,5 @@ VITE_AI_API_KEY=your_ai_api_key
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/ianhsu0101">Ian Hsu</a>
+  Made with by <a href="https://github.com/ianhsu0101">Ian Hsu</a>
 </p>
